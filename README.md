@@ -4,6 +4,6 @@
 
 ### Explanation:
 
-[The Little Guide of Linked List in JavaScript](https://github.com/germancutraro/LinkedList-Data-Structure)
+[The Little Guide of Linked List in JavaScript](https://medium.com/@germancutraro/the-little-guide-of-linked-list-in-javascript-9daf89b63b54)
 
 Thanks!
